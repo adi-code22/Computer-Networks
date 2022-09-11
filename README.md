@@ -1,2 +1,4 @@
 # Computer-Networks
-Computer Networks Programs - KTU S6 CSE CSL332/CST303
+## CSL332/CST303
+
+KTU S6 CSE 2019 Scheme, Computer Networks Programs
